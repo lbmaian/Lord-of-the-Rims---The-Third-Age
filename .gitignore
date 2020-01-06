@@ -1,13 +1,16 @@
+Source/**/bin
+Source/**/obj
+Source/**/packages
+.idea
+.vs
+.vscode
+*.csproj.user
 
-Source/.idea/.idea.RemoveModernStuff/.idea/workspace.xml
-Source/RemoveModernStuff/obj/Debug/TheThirdAge.dll
-Source/.idea/.idea.RemoveModernStuff/.idea/workspace.xml
+RimworldModReleaseTool.exe
 About/PublishedFileId.txt
-Source/.idea/.idea.RemoveModernStuff/.idea/workspace.xml
-Source/RemoveModernStuff/Building_RottableFixer.cs
-Source/RemoveModernStuff/obj/Debug/TheThirdAge.dll
+Source/DiscordWebhookToken.txt
 updateinfo
-Source/.vs/RemoveModernStuff/v15/.suo
+
 
 # Prevents node or other packages.
 
@@ -347,4 +350,3 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
-Source/DiscordWebhookToken.txt

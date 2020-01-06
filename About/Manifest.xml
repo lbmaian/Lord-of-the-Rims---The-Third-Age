@@ -5,7 +5,6 @@
   <dependencies />
   <incompatibleWith />
   <loadBefore>
-    <li>DoorsExpanded</li>
     <li>CoC-Factions</li>
     <li>CoC-Cults</li>
     <li>CoC-ElderThings</li>
@@ -29,6 +28,7 @@
     <li>HugsLib</li>
     <li>JecsTools</li>
     <li>HumanoidAlienRaces2.0</li>
+    <li>DoorsExpanded</li>
   </loadAfter>
   <manifestUri>https://raw.githubusercontent.com/Lord-of-the-Rims-DevTeam/Lord-of-the-Rims---The-Third-Age/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/Lord-of-the-Rims-DevTeam/Lord-of-the-Rims---The-Third-Age/releases</downloadUri>
